@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">JavaViewPager</string>
-    <string name="lorem_ipsum">NUM_PAGES</string>
+    <string name="lorem_ipsum">1</string>
 </resources>
